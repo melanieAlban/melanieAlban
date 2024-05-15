@@ -1,4 +1,9 @@
 
+<p align="center">
+  <img src="https://github.com/melanieAlban/melanieAlban/blob/e62144343739ac67a45e2f1307c8325d9dbeb1a0/bannerGit.png" width="600px"
+    height="200px">
+</p>
+
 # Hola, soy Melanie Albán 👋
 
 Bienvenida a mi perfil de GitHub, donde podrás explorar diversos proyectos que reflejan mi crecimiento y habilidades como desarrolladora de software, todos vinculados con mi formación académica en la Universidad Técnica de Ambato.
@@ -17,9 +22,9 @@ Soy una apasionada estudiante de Ingeniería en Software, con un fuerte enfoque 
 
 A continuación, detallo algunos de los proyectos significativos en los que he trabajado, algunos en colaboración con mis amigos de la Universidad, los cuales reflejan mi capacidad para aplicar habilidades técnicas en escenarios prácticos y resolver problemas complejos:
 
-- **Portafolio Personal:** Este sitio es una vitrina de mi aprendizaje y crecimiento en el campo de la ingeniería de software. Aquí exhibo proyectos que van desde aplicaciones web interactivas hasta complejos sistemas de backend, demostrando mis habilidades en programación y diseño de sistemas. [Visita mis proyectos](https://github.com/melanieAlban)
+- **Portafolio Personal:** Este sitio es una vitrina de mi aprendizaje y crecimiento en el campo de la ingeniería de software. Aquí exhibo proyectos que van desde aplicaciones web interactivas hasta complejos sistemas de backend, demostrando mis habilidades en programación y diseño de sistemas. [Visita el proyectos](https://github.com/melanieAlban)
 
-- **Sistema de Gestión de Centro de Salud:** Desarrollé junto a mis compañeros un sistema integral para la gestión de centros de salud que facilita la administración de citas, el manejo de historiales médicos de pacientes y la optimización de recursos del centro. [Visita mis proyectos](https://github.com/rafaelsoriano04/gestor-centro-de-salud)
+- **Sistema de Gestión de Centro de Salud:** Desarrollé junto a mis compañeros un sistema integral para la gestión de centros de salud que facilita la administración de citas, el manejo de historiales médicos de pacientes y la optimización de recursos del centro. [Visita el proyectos](https://github.com/rafaelsoriano04/gestor-centro-de-salud)
   
 - **Sistema de Gestión de Tareas:** Este sistema soporta la asignación de tareas, seguimiento del progreso y colaboración entre equipos, mejorando así la productividad y organización en entornos laborales.Todo como un proyecto de Universidad.[Visita el proyectos](https://github.com/rafaelsoriano04/gestor-tareas)
 
