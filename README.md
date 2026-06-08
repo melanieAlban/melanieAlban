@@ -1,53 +1,224 @@
+<div align="center">
 
-<p align="center">
-  <img src="https://github.com/melanieAlban/melanieAlban/blob/e62144343739ac67a45e2f1307c8325d9dbeb1a0/bannerGit.png" width="600px"
-    height="200px">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Melanie%20Albán&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20·%20Software%20Engineering%20Student&descAlignY=55&descSize=18" width="100%" />
 
-# Hola, soy Melanie Albán 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Full+Stack+Developer+en+formaci%C3%B3n+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+Angular+%7C+Vue;Seguridad+%7C+Datos+%7C+Backend;Disponible+para+pr%C3%A1cticas+y+proyectos+%E2%9C%85)](https://git.io/typing-svg)
 
-Bienvenida a mi perfil de GitHub, donde podrás explorar diversos proyectos que reflejan mi crecimiento y habilidades como desarrolladora de software, todos vinculados con mi formación académica en la Universidad Técnica de Ambato.
-
-## 🌐 Sobre Mí
-
-Soy una apasionada estudiante de Ingeniería en Software, con un fuerte enfoque en el desarrollo de aplicaciones y bases de datos. A través de mi educación y experiencia personal, he adquirido competencias en diversas áreas del desarrollo de software, desde el frontend hasta el backend.
-
-## 🛠️ Habilidades Técnicas
-
-- **Frontend:** HTML5, CSS3, JavaScript - Construyendo interfaces interactivas y responsivas.
-- **Backend:** Java, Python - Implementando lógicas de negocio complejas.
-- **Bases de Datos:** MySQL, SQL Server, Oracle - Diseñando y gestionando bases de datos eficientes.
-
-## 📚 Proyectos Principales
-
-A continuación, detallo algunos de los proyectos significativos en los que he trabajado, algunos en colaboración con mis amigos de la Universidad, los cuales reflejan mi capacidad para aplicar habilidades técnicas en escenarios prácticos y resolver problemas complejos:
-
-- **Portafolio Personal:** Este sitio es una vitrina de mi aprendizaje y crecimiento en el campo de la ingeniería de software. Aquí exhibo proyectos que van desde aplicaciones web interactivas hasta complejos sistemas de backend, demostrando mis habilidades en programación y diseño de sistemas. [Visita el proyectos](https://github.com/melanieAlban)
-
-- **Sistema de Gestión de Centro de Salud:** Desarrollé junto a mis compañeros un sistema integral para la gestión de centros de salud que facilita la administración de citas, el manejo de historiales médicos de pacientes y la optimización de recursos del centro. [Visita el proyectos](https://github.com/rafaelsoriano04/gestor-centro-de-salud)
-  
-- **Sistema de Gestión de Tareas:** Este sistema soporta la asignación de tareas, seguimiento del progreso y colaboración entre equipos, mejorando así la productividad y organización en entornos laborales.Todo como un proyecto de Universidad.[Visita el proyectos](https://github.com/rafaelsoriano04/gestor-tareas)
-
-- **Juego Matemático:** Diseñamos y programamos en colaboración con mis compañeros un juego educativo que desafía a los usuarios a resolver problemas matemáticos bajo tiempo limitado, fomentando el aprendizaje y la agilidad mental en un formato entretenido y accesible.
-
-- **Sistema de Inventario con Kardex:** Creé un sistema robusto para la gestión de inventarios que incluye funcionalidades de Kardex, permitiendo a las empresas rastrear y controlar sus existencias de forma precisa.
-  
-Cada uno de estos proyectos no solo refleja mi habilidad técnica, sino también mi compromiso con la creación de software que tiene un impacto real en la vida de las personas y en las operaciones empresariales, al igual que la importancia de la colaboración de los equipos para el desarrollo de software.
-
-
-## 🔗 Conecta Conmigo
-
-Estoy siempre interesada en colaborar en proyectos innovadores o simplemente en conectar con otros entusiastas de la tecnología.
-
-- **GitHub:** [Visita mis proyectos](https://github.com/melanieAlban)
-
-## 📬 Contacto
-
-Si tienes alguna pregunta o deseas discutir posibles colaboraciones, no dudes en enviarme un mensaje:
-
-- 📧 [melanie_albanch@hotmail.com](mailto:melanie_albanch@hotmail.com)
-
-Gracias por visitar mi perfil, ¡espero que encuentres inspiración en mis proyectos!
+</div>
 
 ---
-⌨️ con ❤️ por Melanie Albán 😊
+
+### 👩🏻‍💻 &nbsp;Sobre mí
+
+🚀 &nbsp;Construyo aplicaciones **Full Stack** de extremo a extremo — del modelo de datos y la API REST hasta la interfaz final.\
+🎓 &nbsp;Estudiante de **Ingeniería en Software** en la Universidad Técnica de Ambato (2022 – presente).\
+🔨 &nbsp;Actualmente en pasantía en **EEASA**, desarrollando un sistema de reportería con Java, Spring Boot, Angular y Oracle.\
+🌱 &nbsp;Aprendiendo sobre **Ciberseguridad** y **Análisis de datos** con Python.\
+💡 &nbsp;Me interesa el desarrollo backend, las bases de datos y la seguridad de aplicaciones.\
+💬 &nbsp;Disponible para prácticas, proyectos o simplemente una buena conversación sobre tecnología.\
+✉️ &nbsp;Escríbeme a [melanie_albanch@hotmail.com](mailto:melanie_albanch@hotmail.com) — respondo pronto.\
+📄 &nbsp;Visita mi [portafolio en línea](https://melaniealban.github.io/) para ver mis proyectos con detalle.
+
+<br/>
+
+---
+
+### 🛠 &nbsp;Tech Stack
+
+<p align="left">
+<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42"/></a>&nbsp;
+<a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="42" height="42"/></a>&nbsp;
+<a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="42" height="42"/></a>&nbsp;
+<a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="42" height="42"/></a>&nbsp;
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42"/></a>&nbsp;
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42"/></a>&nbsp;
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42"/></a>&nbsp;
+<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42"/></a>&nbsp;
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42"/></a>&nbsp;
+<a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="42" height="42"/></a>&nbsp;
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="42" height="42"/></a>&nbsp;
+<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42"/></a>&nbsp;
+<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42"/></a>&nbsp;
+<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42"/></a>&nbsp;
+<a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42"/></a>&nbsp;
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="42" height="42"/></a>&nbsp;
+<a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="42" height="42"/></a>
+</p>
+
+---
+
+### 📂 &nbsp;Proyectos destacados
+
+> Todos los repositorios incluyen `README.md` documentado con descripción, tecnologías e instrucciones de uso.
+
+<table width="100%">
+<tr>
+<td width="50%">
+<h3 align="center">Sistema de Seguros · API REST</h3>
+<div align="center">
+  <a href="https://github.com/melanieAlban/insurance-back" target="_blank">
+    <img src="https://opengraph.githubassets.com/1/melanieAlban/insurance-back" width="100%" alt="insurance-back"/>
+  </a>
+  <p>
+    <a href="https://github.com/melanieAlban/insurance-back" target="_blank">
+      <img src="https://img.shields.io/badge/REPO-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </p>
+  <p>Backend con <strong>Spring Boot</strong> para gestión de seguros — arquitectura por capas, endpoints documentados con Swagger y despliegue con Docker.</p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">Gestión Financiera · Frontend</h3>
+<div align="center">
+  <a href="https://github.com/melanieAlban/finance-management-front" target="_blank">
+    <img src="https://opengraph.githubassets.com/1/melanieAlban/finance-management-front" width="100%" alt="finance-management-front"/>
+  </a>
+  <p>
+    <a href="https://github.com/melanieAlban/finance-management-front" target="_blank">
+      <img src="https://img.shields.io/badge/REPO-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </p>
+  <p>Aplicación web con <strong>Angular 19</strong> para administrar finanzas: interfaz responsiva, componentes reutilizables y consumo de API REST.</p>
+</div>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3 align="center">Hatun Bus · Reservas</h3>
+<div align="center">
+  <a href="https://github.com/melanieAlban/hatunbus-front-web" target="_blank">
+    <img src="https://opengraph.githubassets.com/1/melanieAlban/hatunbus-front-web" width="100%" alt="hatunbus"/>
+  </a>
+  <p>
+    <a href="https://github.com/melanieAlban/hatunbus-front-web" target="_blank">
+      <img src="https://img.shields.io/badge/REPO-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </p>
+  <p>Frontend para reserva de boletos de bus — rutas, horarios, selección de asientos y compra de pasajes. Proyecto en equipo.</p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">Portafolio Personal</h3>
+<div align="center">
+  <a href="https://melaniealban.github.io/" target="_blank">
+    <img src="https://opengraph.githubassets.com/1/melanieAlban/melanieAlban.github.io" width="100%" alt="portfolio"/>
+  </a>
+  <p>
+    <a href="https://github.com/melanieAlban/melanieAlban.github.io" target="_blank">
+      <img src="https://img.shields.io/badge/REPO-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+    <a href="https://melaniealban.github.io/" target="_blank">
+      <img src="https://img.shields.io/badge/DEMO-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+    </a>
+  </p>
+  <p>Portafolio con diseño dev/terminal, cursor personalizado, animaciones y tema claro/oscuro — HTML, CSS y JS puro.</p>
+</div>
+</td>
+</tr>
+</table>
+
+#### 🤝 &nbsp;Colaboraciones — créditos a los autores principales
+
+<table width="100%">
+<tr>
+<td width="50%">
+<h3 align="center">Sistema · Centro de Salud</h3>
+<div align="center">
+  <a href="https://github.com/rafaelsoriano04/gestor-centro-de-salud" target="_blank">
+    <img src="https://opengraph.githubassets.com/1/rafaelsoriano04/gestor-centro-de-salud" width="100%" alt="centro-salud"/>
+  </a>
+  <p>
+    <a href="https://github.com/rafaelsoriano04/gestor-centro-de-salud" target="_blank">
+      <img src="https://img.shields.io/badge/REPO-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </p>
+  <p>Gestión de pacientes, citas y consultas médicas.<br/><strong>Autores:</strong> <a href="https://github.com/rafaelsoriano04">@rafaelsoriano04</a> · <a href="https://github.com/melanieAlban">@melanieAlban</a></p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">TaskMaster · Gestión de Tareas</h3>
+<div align="center">
+  <a href="https://github.com/rafaelsoriano04/gestor-tareas" target="_blank">
+    <img src="https://opengraph.githubassets.com/1/rafaelsoriano04/gestor-tareas" width="100%" alt="gestor-tareas"/>
+  </a>
+  <p>
+    <a href="https://github.com/rafaelsoriano04/gestor-tareas" target="_blank">
+      <img src="https://img.shields.io/badge/REPO-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </p>
+  <p>Tablero Kanban: asignado → en curso → revisión → finalizado.<br/><strong>Autores:</strong> <a href="https://github.com/rafaelsoriano04">@rafaelsoriano04</a> · <a href="https://github.com/melanieAlban">@melanieAlban</a></p>
+</div>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3 align="center">Reserva de Aulas · UTA</h3>
+<div align="center">
+  <a href="https://github.com/FreddyA12/reservas-aulas-front" target="_blank">
+    <img src="https://opengraph.githubassets.com/1/FreddyA12/reservas-aulas-front" width="100%" alt="reservas-aulas"/>
+  </a>
+  <p>
+    <a href="https://github.com/FreddyA12/reservas-aulas-front" target="_blank">
+      <img src="https://img.shields.io/badge/REPO-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </p>
+  <p>Disponibilidad de aulas, horarios y gestión de espacios académicos.<br/><strong>Autores:</strong> <a href="https://github.com/FreddyA12">@FreddyA12</a> · <a href="https://github.com/melanieAlban">@melanieAlban</a></p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">Facturación · Junta de Agua</h3>
+<div align="center">
+  <a href="https://github.com/junta-agua-uta/ja-facturacion-front" target="_blank">
+    <img src="https://opengraph.githubassets.com/1/junta-agua-uta/ja-facturacion-front" width="100%" alt="facturacion"/>
+  </a>
+  <p>
+    <a href="https://github.com/junta-agua-uta/ja-facturacion-front" target="_blank">
+      <img src="https://img.shields.io/badge/REPO-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </p>
+  <p>Facturación digital para junta de agua potable — proyecto de vinculación.<br/><strong>Org:</strong> <a href="https://github.com/junta-agua-uta">@junta-agua-uta</a> · <a href="https://github.com/melanieAlban">@melanieAlban</a></p>
+</div>
+</td>
+</tr>
+</table>
+
+---
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/melanieAlban">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=melanieAlban&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=melanieAlban&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=melanieAlban&theme=algolia&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=melanieAlban&theme=algolia&column=6&margin-w=12&margin-h=12"/>
+</p>
+
+---
+
+### 🤝🏻 &nbsp;Contáctame
+
+<p align="center">
+<a href="https://melaniealban.github.io/"><img src="https://img.shields.io/badge/-melaniealban.github.io-7c3aed?style=flat&logo=Google-Chrome&logoColor=white"/></a>&nbsp;
+<a href="mailto:melanie_albanch@hotmail.com"><img src="https://img.shields.io/badge/-melanie__albanch@hotmail.com-0078D4?style=flat&logo=microsoftoutlook&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/melanieAlban"><img src="https://img.shields.io/badge/-melanieAlban-181717?style=flat&logo=github&logoColor=white"/></a>
+</p>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer" width="100%" />
+<sub>© 2026 Melanie Albán &nbsp;·&nbsp; <code>&lt;/&gt;</code> con Java, café y algo de CSS que nunca funciona a la primera</sub>
+</div>
